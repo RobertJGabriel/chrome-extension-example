@@ -1,0 +1,18 @@
+{
+  "name": "Chrome-extension-example",
+  "description": "A example project that shows you the layout and how to use things.",
+  "author": "Robert James Gabriel",
+  "dependencies": {
+    "run-sequence": "^1.2.2"
+  },
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-less": "*",
+    "gulp-minify-css": "*",
+    "gulp-uglify": "^1.4.0",
+    "gulp-util": "*",
+    "gulp-logger": "*",
+    "gulp-rename": "*"
+  },
+  "engine": "node >= 0.4.1"
+}
